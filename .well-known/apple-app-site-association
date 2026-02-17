@@ -1,0 +1,35 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "G67A34V47L.com.skwaddy.app",
+        "paths": [
+          "/rsvp/*",
+          "/party/*",
+          "/playdate/*",
+          "/connect/*"
+        ]
+      }
+    ]
+  }
+}
+```
+
+Commit that file.
+
+---
+
+### **File 2: `_headers`**
+
+Click **Add file → Create new file**
+
+**Filename**: `_headers`
+
+**Content**:
+```
+/.well-known/apple-app-site-association
+  Content-Type: application/json
+
+/*
+  X-Robots-Tag: noindex
