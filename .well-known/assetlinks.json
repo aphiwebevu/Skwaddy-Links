@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.skwaddy.app",
+    "sha256_cert_fingerprints": ["51:19:3B:DE:94:AC:92:1C:EE:32:B2:F2:3B:40:49:B5:83:5F:1B:2E:AE:EF:9F:CA:F8:DB:29:1B:C1:A7:B6:B6"]
+  }
+}]
