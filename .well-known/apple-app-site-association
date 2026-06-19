@@ -8,7 +8,8 @@
           "/rsvp/*",
           "/party/*",
           "/playdate/*",
-          "/connect/*"
+          "/connect/*",
+          "/auth/reset-password"
         ]
       }
     ]
